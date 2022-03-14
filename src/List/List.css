@@ -1,0 +1,20 @@
+.test-name {
+    padding: 5px;
+    margin:20px 0;
+    border-bottom: 1px solid;
+}
+
+.test-name :hover {
+    box-shadow: 1px 3px 5px ;
+    color: rgba(0,0,0,0.1);
+}
+
+.test-name h2{
+    font-size: 20px;
+    color:goldenrod;
+    margin-bottom: 8px;
+}
+
+.home{
+    text-align: center;
+}

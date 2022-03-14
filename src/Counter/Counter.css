@@ -1,0 +1,10 @@
+.counter{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.button {
+    display: flex;
+  gap: 10%;
+  margin-left: 550px;
+}
